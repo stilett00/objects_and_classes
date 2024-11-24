@@ -1,3 +1,2 @@
-class Reposts {
-    val countRepost: Int = 0
+data class Reposts(val countRepost: Int = 0) {
 }
